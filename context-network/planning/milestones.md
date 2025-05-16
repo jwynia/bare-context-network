@@ -142,9 +142,9 @@ graph TD
 - **Update Patterns:** This document should be updated bi-weekly or when milestone status changes
 
 ## Metadata
-- **Created:** 5/14/2025
-- **Last Updated:** 5/16/2025
-- **Updated By:** Context Network Update
+- **Created:** [Date]
+- **Last Updated:** [Date]
+- **Updated By:** [Role/Agent]
 
 ## Change History
-- 5/14/2025: Initial creation of milestones template
+- [Date]: Initial creation of milestones template

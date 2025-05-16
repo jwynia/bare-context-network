@@ -127,10 +127,9 @@ This document outlines the core principles and standards that guide decision-mak
 - **Update Patterns:** This document should be updated rarely, only when fundamental principles change
 
 ## Metadata
-- **Created:** 5/14/2025
-- **Last Updated:** 5/16/2025
-- **Updated By:** Context Network Update
+- **Created:** [Date]
+- **Last Updated:** [Date]
+- **Updated By:** [Role/Agent]
 
 ## Change History
-- 5/14/2025: Initial creation of principles template
-- 5/16/2025: Updated terminology to be more universally applicable
+- [Date]: Initial creation of principles template

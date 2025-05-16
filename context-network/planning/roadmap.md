@@ -20,14 +20,14 @@ gantt
     title Project Roadmap
     dateFormat  YYYY-MM-DD
     section Phase 1
-    [Milestone 1]      :a1, 2025-06-01, 30d
+    [Milestone 1]      :a1, [Start Date], 30d
     [Milestone 2]      :after a1, 45d
     section Phase 2
-    [Milestone 3]      :2025-08-15, 60d
-    [Milestone 4]      :2025-10-15, 30d
+    [Milestone 3]      :[Date], 60d
+    [Milestone 4]      :[Date], 30d
     section Phase 3
-    [Milestone 5]      :2025-11-15, 45d
-    [Milestone 6]      :2026-01-01, 30d
+    [Milestone 5]      :[Date], 45d
+    [Milestone 6]      :[Date], 30d
 ```
 
 ### Current Phase
@@ -123,9 +123,9 @@ gantt
 - **Update Patterns:** This document should be updated quarterly or when significant changes to the plan occur
 
 ## Metadata
-- **Created:** 5/14/2025
-- **Last Updated:** 5/16/2025
-- **Updated By:** Context Network Update
+- **Created:** [Date]
+- **Last Updated:** [Date]
+- **Updated By:** [Role/Agent]
 
 ## Change History
-- 5/14/2025: Initial creation of roadmap template
+- [Date]: Initial creation of roadmap template

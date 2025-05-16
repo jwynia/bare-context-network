@@ -79,9 +79,9 @@ This document serves as an index of all key decisions made for the project, prov
 - **Update Patterns:** This index should be updated whenever a new decision is added or a decision status changes
 
 ## Metadata
-- **Created:** 5/14/2025
-- **Last Updated:** 5/16/2025
-- **Updated By:** Context Network Update
+- **Created:** [Date]
+- **Last Updated:** [Date]
+- **Updated By:** [Role/Agent]
 
 ## Change History
-- 5/14/2025: Initial creation of decision index
+- [Date]: Initial creation of decision index

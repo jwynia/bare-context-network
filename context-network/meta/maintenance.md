@@ -117,9 +117,9 @@ Monitor these indicators of context network health:
 - **Update Patterns:** This document should be updated when maintenance procedures change
 
 ## Metadata
-- **Created:** 5/14/2025
-- **Last Updated:** 5/16/2025
-- **Updated By:** Context Network Update
+- **Created:** [Date]
+- **Last Updated:** [Date]
+- **Updated By:** [Role/Agent]
 
 ## Change History
-- 5/14/2025: Initial creation of maintenance procedures
+- [Date]: Initial creation of maintenance procedures

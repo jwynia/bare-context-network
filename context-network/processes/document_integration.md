@@ -133,10 +133,9 @@ Record the integration in the update log:
 - **Update Patterns:** This process may be refined based on experience with document integration
 
 ## Metadata
-- **Created:** 5/14/2025
-- **Last Updated:** 5/16/2025
-- **Updated By:** Context Network Update
+- **Created:** [Date]
+- **Last Updated:** [Date]
+- **Updated By:** [Role/Agent]
 
 ## Change History
-- 5/14/2025: Initial creation of document integration process
-- 5/16/2025: Updated terminology to be more universally applicable
+- [Date]: Initial creation of document integration process
