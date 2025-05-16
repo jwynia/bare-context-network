@@ -2,7 +2,7 @@
 
 ## Overview
 
-This context network contains all planning documents, architectural decisions, and team coordination information for the project. It is organized into several key sections to facilitate navigation and information discovery.
+This context network contains all planning documents, conceptual work, and coordination information for the project. It is organized into several key sections to facilitate navigation and information discovery.
 
 ## Structure
 
@@ -13,23 +13,23 @@ context-network/
 ├── discovery.md                # This navigation guide
 ├── foundation/                 # Core project information
 │   ├── project_definition.md   # Main project purpose and goals
-│   ├── architecture.md         # System architecture overview
+│   ├── structure.md            # Project structure overview
 │   └── principles.md           # Guiding principles and standards
-├── domains/                    # Domain-specific information
-│   └── [domain-specific folders and files]
+├── elements/                   # Domain-specific information
+│   └── [element-specific folders and files]
 ├── processes/                  # Process documentation
-│   ├── development.md          # Development workflows
-│   ├── testing.md              # Testing procedures
-│   ├── deployment.md           # Deployment processes
+│   ├── creation.md             # Creation workflows
+│   ├── validation.md           # Validation procedures
+│   ├── delivery.md             # Delivery processes
 │   └── document_integration.md # Process for integrating inbox documents
-├── decisions/                  # Architecture and design decisions
+├── decisions/                  # Key decisions
 │   ├── decision_index.md       # Index of all decisions
 │   └── [individual decision records]
 ├── planning/                   # Planning documents
 │   ├── roadmap.md              # Project roadmap
 │   └── milestones.md           # Milestone definitions
-├── cross-domain/               # Cross-cutting concerns
-│   ├── dependencies.md         # Cross-component dependencies
+├── connections/                # Cross-cutting concerns
+│   ├── dependencies.md         # Dependencies between elements
 │   └── interfaces.md           # Interface definitions
 ├── meta/                       # Information about the network itself
 │   ├── updates.md              # Record of network changes
@@ -39,22 +39,22 @@ context-network/
 
 ## Navigation Paths
 
-### For New Team Members
+### For New Project Members
 1. Start with `foundation/project_definition.md` to understand the project's purpose
 2. Review `foundation/principles.md` to understand guiding principles
-3. Explore `foundation/architecture.md` for a system overview
+3. Explore `foundation/structure.md` for a project overview
 4. Check `planning/roadmap.md` to understand current priorities
 
-### For Feature Development
-1. Review relevant domain documentation in `domains/`
-2. Check `cross-domain/dependencies.md` for integration points
+### For Creating New Elements
+1. Review relevant element documentation in `elements/`
+2. Check `connections/dependencies.md` for integration points
 3. Review applicable decision records in `decisions/`
-4. Follow the process in `processes/development.md`
+4. Follow the process in `processes/creation.md`
 
-### For Understanding Design Decisions
+### For Understanding Key Decisions
 1. Start with `decisions/decision_index.md`
 2. Navigate to specific decision records of interest
-3. Review related architecture documentation in `foundation/architecture.md`
+3. Review related structure documentation in `foundation/structure.md`
 
 ### For Document Integration
 1. Follow the process outlined in `processes/document_integration.md`
@@ -71,7 +71,8 @@ This context network is maintained according to the procedures documented in `me
 Information nodes in this context network are classified along these dimensions:
 
 1. **Domain**: [Primary knowledge area]
-   - Valid values: Frontend, Backend, Design, DevOps, Documentation, Business, etc.
+   - Examples: Core Concept, Supporting Element, External Factor, Resource, Output
+   - Project-specific examples might include: Research, Design, Content, Process, Outcome
 
 2. **Stability**: [Change frequency expectation]
    - Static: Fundamental principles unlikely to change

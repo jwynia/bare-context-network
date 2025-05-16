@@ -4,7 +4,7 @@
 This document defines the core purpose, goals, and scope of the project.
 
 ## Classification
-- **Domain:** Business
+- **Domain:** Core Concept
 - **Stability:** Static
 - **Abstraction:** Conceptual
 - **Confidence:** Established
@@ -23,7 +23,7 @@ This document defines the core purpose, goals, and scope of the project.
 
 [A statement describing what the project does, for whom, and the value it provides]
 
-### Business Objectives
+### Project Objectives
 
 1. [Objective 1]
 2. [Objective 2]
@@ -84,7 +84,7 @@ This document defines the core purpose, goals, and scope of the project.
 ## Relationships
 - **Parent Nodes:** None
 - **Child Nodes:** 
-  - [foundation/architecture.md] - implements - Technical implementation of project goals
+  - [foundation/structure.md] - implements - Structural implementation of project goals
   - [foundation/principles.md] - guides - Principles that guide project execution
 - **Related Nodes:** 
   - [planning/roadmap.md] - details - Specific implementation plan for project goals
@@ -92,14 +92,15 @@ This document defines the core purpose, goals, and scope of the project.
 
 ## Navigation Guidance
 - **Access Context:** Use this document when needing to understand the fundamental purpose and scope of the project
-- **Common Next Steps:** After reviewing this definition, typically explore architecture.md or principles.md
+- **Common Next Steps:** After reviewing this definition, typically explore structure.md or principles.md
 - **Related Tasks:** Strategic planning, scope definition, stakeholder communication
 - **Update Patterns:** This document should be updated when there are fundamental changes to project direction or scope
 
 ## Metadata
 - **Created:** 5/14/2025
-- **Last Updated:** 5/14/2025
-- **Updated By:** System Setup
+- **Last Updated:** 5/16/2025
+- **Updated By:** Context Network Update
 
 ## Change History
 - 5/14/2025: Initial creation of project definition template
+- 5/16/2025: Updated terminology to be more universally applicable

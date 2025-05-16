@@ -113,8 +113,8 @@ gantt
 - **Parent Nodes:** [foundation/project_definition.md]
 - **Child Nodes:** [planning/milestones.md]
 - **Related Nodes:** 
-  - [foundation/architecture.md] - implements - Architecture supports roadmap features
-  - [processes/development.md] - executes - Development processes execute roadmap items
+  - [foundation/structure.md] - implements - Structure supports roadmap features
+  - [processes/creation.md] - executes - Creation processes execute roadmap items
 
 ## Navigation Guidance
 - **Access Context:** Use this document when planning work, prioritizing features, or communicating timelines
@@ -124,8 +124,8 @@ gantt
 
 ## Metadata
 - **Created:** 5/14/2025
-- **Last Updated:** 5/14/2025
-- **Updated By:** System Setup
+- **Last Updated:** 5/16/2025
+- **Updated By:** Context Network Update
 
 ## Change History
 - 5/14/2025: Initial creation of roadmap template

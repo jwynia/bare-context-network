@@ -45,11 +45,11 @@ Based on the analysis:
 
 1. Determine where the information belongs in the context network structure
    - Foundation documents → `foundation/`
-   - Domain-specific information → `domains/[domain]/`
+   - Element-specific information → `elements/[element]/`
    - Process documentation → `processes/`
    - Decision records → `decisions/`
    - Planning information → `planning/`
-   - Cross-domain concerns → `cross-domain/`
+   - Connection concerns → `connections/`
 2. Decide whether to:
    - Create a new information node
    - Update an existing node
@@ -85,7 +85,7 @@ For each new or updated node:
    - Extensions
    - Contradictions
    - Complementary information
-3. Document cross-domain relationships:
+3. Document cross-element relationships:
    - Interfaces
    - Translations
    - Impacts
@@ -120,7 +120,7 @@ Record the integration in the update log:
    - Any follow-up actions required
 
 ## Relationships
-- **Parent Nodes:** [processes/development.md]
+- **Parent Nodes:** [processes/creation.md]
 - **Child Nodes:** None
 - **Related Nodes:** 
   - [meta/updates.md] - Records changes from document integration
@@ -134,8 +134,9 @@ Record the integration in the update log:
 
 ## Metadata
 - **Created:** 5/14/2025
-- **Last Updated:** 5/14/2025
-- **Updated By:** System Setup
+- **Last Updated:** 5/16/2025
+- **Updated By:** Context Network Update
 
 ## Change History
 - 5/14/2025: Initial creation of document integration process
+- 5/16/2025: Updated terminology to be more universally applicable

@@ -133,7 +133,7 @@ graph TD
 - **Child Nodes:** None
 - **Related Nodes:** 
   - [foundation/project_definition.md] - derives-from - Milestones implement project goals
-  - [processes/development.md] - executes - Development processes work toward milestones
+  - [processes/creation.md] - executes - Creation processes work toward milestones
 
 ## Navigation Guidance
 - **Access Context:** Use this document when planning work, tracking progress, or evaluating milestone completion
@@ -143,8 +143,8 @@ graph TD
 
 ## Metadata
 - **Created:** 5/14/2025
-- **Last Updated:** 5/14/2025
-- **Updated By:** System Setup
+- **Last Updated:** 5/16/2025
+- **Updated By:** Context Network Update
 
 ## Change History
 - 5/14/2025: Initial creation of milestones template

@@ -4,7 +4,7 @@
 This document outlines the core principles and standards that guide decision-making and development across the project.
 
 ## Classification
-- **Domain:** Business, Architecture
+- **Domain:** Core Concept
 - **Stability:** Static
 - **Abstraction:** Conceptual
 - **Confidence:** Established
@@ -43,29 +43,29 @@ This document outlines the core principles and standards that guide decision-mak
    
    *Example:* [Concrete example of this principle in action]
 
-### Technical Standards
+### Standards and Guidelines
 
-[List and describe the technical standards that the project adheres to]
+[List and describe the standards and guidelines that the project adheres to]
 
-#### Code Quality Standards
-
-- [Standard 1]
-- [Standard 2]
-- [Standard 3]
-
-#### Architecture Standards
+#### Quality Standards
 
 - [Standard 1]
 - [Standard 2]
 - [Standard 3]
 
-#### Security Standards
+#### Structural Standards
 
 - [Standard 1]
 - [Standard 2]
 - [Standard 3]
 
-#### Performance Standards
+#### Safety and Security Standards
+
+- [Standard 1]
+- [Standard 2]
+- [Standard 3]
+
+#### Performance and Efficiency Standards
 
 - [Standard 1]
 - [Standard 2]
@@ -116,20 +116,21 @@ This document outlines the core principles and standards that guide decision-mak
 - **Parent Nodes:** [foundation/project_definition.md]
 - **Child Nodes:** None
 - **Related Nodes:** 
-  - [foundation/architecture.md] - implements - Architecture implements these principles
-  - [processes/development.md] - guided-by - Development processes follow these principles
+  - [foundation/structure.md] - implements - Project structure implements these principles
+  - [processes/creation.md] - guided-by - Creation processes follow these principles
   - [decisions/*] - evaluated-against - Decisions are evaluated against these principles
 
 ## Navigation Guidance
 - **Access Context:** Use this document when making significant decisions or evaluating options
-- **Common Next Steps:** After reviewing principles, typically explore architecture.md or specific decision records
+- **Common Next Steps:** After reviewing principles, typically explore structure.md or specific decision records
 - **Related Tasks:** Decision-making, design reviews, code reviews, process definition
 - **Update Patterns:** This document should be updated rarely, only when fundamental principles change
 
 ## Metadata
 - **Created:** 5/14/2025
-- **Last Updated:** 5/14/2025
-- **Updated By:** System Setup
+- **Last Updated:** 5/16/2025
+- **Updated By:** Context Network Update
 
 ## Change History
 - 5/14/2025: Initial creation of principles template
+- 5/16/2025: Updated terminology to be more universally applicable

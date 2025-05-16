@@ -1,7 +1,7 @@
 # [Decision Title]
 
 ## Purpose
-This document records an architectural decision made regarding [topic].
+This document records a key decision made regarding [topic].
 
 ## Classification
 - **Domain:** [Primary knowledge area]
@@ -56,7 +56,7 @@ This document records an architectural decision made regarding [topic].
 [Any specific details about implementing this decision]
 
 ## Relationships
-- **Parent Nodes:** [Broader architectural decisions]
+- **Parent Nodes:** [Broader decisions or principles]
 - **Child Nodes:** [More detailed decisions that build on this one]
 - **Related Nodes:** 
   - [Node Name] - [Relationship Type] - [Brief description]
@@ -72,7 +72,7 @@ This document records an architectural decision made regarding [topic].
 - **Decision Number:** [Sequential identifier]
 - **Created:** [Date]
 - **Last Updated:** [Date]
-- **Updated By:** [Agent ID/Task]
+- **Updated By:** [Person/Agent/Role]
 - **Deciders:** [Who was involved in making the decision]
 
 ## Change History
