@@ -23,6 +23,7 @@ This document tracks all changes made to the context network, including document
     - `development.md` → `creation.md`
     - `testing.md` → `validation.md`
     - `deployment.md` → `delivery.md`
+  - Renamed `adr_template.md` to `decision_template.md` to remove software-specific terminology
   - Updated classification examples to include non-software domains
   - Updated element types to include examples for various project types
   - Modified relationship references to reflect new terminology
@@ -47,6 +48,7 @@ This document tracks all changes made to the context network, including document
   - `processes/validation.md` (new)
   - `processes/delivery.md` (new)
   - `processes/document_integration.md`
+  - `decisions/decision_template.md` (renamed from `adr_template.md`)
 - **Rationale:**
   - Make the base context network more adaptable to a wide range of project types
   - Remove software-specific terminology to support creative, research, and other project types
