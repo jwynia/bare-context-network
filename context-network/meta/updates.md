@@ -13,6 +13,31 @@ This document tracks all changes made to the context network, including document
 
 ### Update Log
 
+#### 5/16/2025: Custom Instructions Prompt Update
+- **Documents Processed:**
+  - `inbox/custom-instructions-prompt.md`
+- **Changes Made:**
+  - Updated custom instructions prompt with generic terminology
+  - Updated directory and file references to match current structure:
+    - Changed `domains/` to `elements/`
+    - Changed `cross-domain/` to `connections/`
+    - Changed `architecture.md` to `structure.md`
+    - Changed process files to use new names (creation, validation, delivery)
+  - Updated terminology throughout:
+    - Replaced "architecture" with "structure"
+    - Replaced "architectural" with "structural"
+    - Replaced "domain-specific" with "element-specific"
+    - Replaced "cross-domain" with "connections"
+    - Updated "Architect/Planning Mode" to "Conceptual/Planning Mode"
+  - Updated example directory structure to match current structure
+- **Affected Nodes:**
+  - `inbox/custom-instructions-prompt.md`
+- **Rationale:**
+  - Align custom instructions with the more generic terminology used in the context network
+  - Ensure instructions are applicable to a wide range of project types
+- **Follow-up Actions:**
+  - Test the instructions with different project types
+
 #### 5/16/2025: Context Network Generalization and Cleanup
 - **Changes Made:**
   - Updated terminology throughout to be more universally applicable
